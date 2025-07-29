@@ -2,7 +2,7 @@
 
 # dependencies
 /node_modules
-/Team-Champions
+/Team-Champions/
 /.pnp
 .pnp.*
 .yarn/*
