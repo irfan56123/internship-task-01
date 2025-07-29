@@ -130,7 +130,7 @@ export default function LoginForm() {
 
       {/* Signup prompt */}
       <p className="text-center text-sm mt-6">
-        Don't have an account?{' '}
+        Don&apos;t have an account?{' '}
         <a href="#" className="text-blue-500 hover:underline">
           Sign Up
         </a>
